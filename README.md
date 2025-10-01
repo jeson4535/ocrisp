@@ -33,7 +33,7 @@ One-Click RAG Implementation, Simple and Portable
 
 ## Install MCP 
 
-# Claude Desktop 
+### Claude Desktop 
 
 1. Locate config file. In Windows: `%APPDATA%\Claude\claude_desktop_config.json`
 
