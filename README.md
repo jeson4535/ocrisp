@@ -31,6 +31,26 @@ One-Click RAG Implementation, Simple and Portable
 - [Qdrant](https://github.com/qdrant/qdrant) in your PATH.
 - [Ollama](https://github.com/ollama/ollama) installed.
 
+## Install MCP 
+
+# Claude Desktop 
+
+1. Locate config file. In Windows: `%APPDATA%\Claude\claude_desktop_config.json`
+
+2. Modify, adding this entry. Replace with the actual path of ocrisp.
+```json
+{
+  "mcpServers": {
+    "ocrisp": {
+      "command": "C:\\path\\to\\your\\ocrisp.exe",
+      "args": ["mcp"]
+    }
+  }
+}
+```
+
+3. Save and restart Claude Desktop.
+
 ## To do:
 
 - Support other Vector Databases (LanceDB next?)
