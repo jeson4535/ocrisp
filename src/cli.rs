@@ -11,12 +11,13 @@ pub enum Commands {
     /// Wipe the database, for any reason
     Wipe,
     
+    /// Minimal query-chat, recommended to debug your search
     QueryChat
 }
 
 #[derive(Parser)]
 #[command(
-    name = "OCRISP",
+    name = "ocrisp",
     version = "0.1",
     about = "One-Click RAG Implementation, Simple and Portable"
 )]
